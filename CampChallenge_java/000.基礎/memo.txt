@@ -1,0 +1,18 @@
+Pcスペック確認
+
+[pcのOS]
+macOS Sierra バージョン10.12.5
+
+MacBook Pro (13-inch,2016,Two Thunderbolt 3 ports)
+
+[Cpuの性能]
+　プロセッサ　2 GHz intel Core i5
+
+[搭載メモリ]
+ メモリ　8GB 1867 MHz LPDDR3
+
+[GPU]
+ intel Iris Graphics 540 1536 MB
+
+[内蔵ハードディスク容量]
+Macintosh HD 250GB 利用可能　197GB
