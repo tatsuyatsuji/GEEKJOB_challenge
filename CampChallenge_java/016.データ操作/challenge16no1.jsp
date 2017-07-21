@@ -18,13 +18,13 @@
                
                <center><h3>name:<input type="text" name="txtName"></h3></br></center>
                
-               男<input type="radio" name="rdoSample">
+               <center>男<input type="radio" name="rdoSample"></center>
                
-                女<input type="radio" name="rdoSample"></br>
+                <center>女<input type="radio" name="rdoSample"></br></center>
                    
-               趣味：<textarea name="mulText"></textarea>
+              <center>趣味：<textarea  cols="10" rows="3" style="width:500px;height:200px;"name="mulText"></textarea></center>
                
-               <input type="submit" name="btnSubmit">
+               <center><input type="submit" name="btnSubmit"></center>
                
          
         
